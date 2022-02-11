@@ -1,1 +1,4 @@
 currently the file is in the git hub repo
+modifying the file 
+and puching pack to git hub
+
